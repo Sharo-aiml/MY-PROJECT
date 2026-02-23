@@ -1,0 +1,9 @@
+pyautogen
+openai
+streamlit
+requests
+python-dotenv
+speechrecognition
+pyttsx3
+pyaudio
+sqlite3
